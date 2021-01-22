@@ -18,7 +18,7 @@ This is the directory of Data Science projects
   Polynomial regression analysis
   Training / testing split 
 
-3.	Women labour participation
+3.	<a href: Women labour participation </a>
 •	Data Source: Kaggle
 •	Work performed: 
   Set-up and data connectivity to on-line IBM DB2 database
