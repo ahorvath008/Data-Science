@@ -1,29 +1,15 @@
 <html>
 <body>
 
-<h1>Directory of Data Science projects</h1>
+<h1>Welcome to the Data Science Main page</h1>
 
+  1. <a href="cars.html">Used Car Sales Analytics</a> 
+  
+  
+  2. <a href="housing.html">Housing Data Analytics</a> 
+  
+  
+  3. <a href="women.html">Women in Labour Force Analytics</a> 
 
-<p>My first paragraph</p>
-
-
-1.	Used Car Analysis
-•	  Data Source: Kaggle
-•	  Work performed: 
-      Data wrangling, including data normalization;
-      Binning, groupby and pivot tables
-      Data correlations (Pearson coefficient / p-values / ANOVA)
-      Data graphing (Matplotlib/Seaborn: heatmaps / histograms / scatterplots / fitted lines)
-      Simple / Multiple regression analysis    
-
-2.	Housing Data Analysis
-•	Data Source: Kaggle
-•	Work performed: 
-  Data graphing (Matplotlib/Seaborn: heatmaps / histograms / scatterplots / fitted lines)
-  Polynomial regression analysis
-  Training / testing split 
-
- <a href="women.html"> Women in the Labour Force Analytics </a> 
-
-</body>
-</html>
+<html>
+<body>
