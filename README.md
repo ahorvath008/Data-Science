@@ -1,6 +1,11 @@
-# Data-Science
+<html>
+<body>
 
-This is the directory of Data Science projects
+<h1>Directory of Data Science projects</h1>
+
+
+<p>My first paragraph</p>
+
 
 1.	Used Car Analysis
 •	  Data Source: Kaggle
@@ -18,7 +23,7 @@ This is the directory of Data Science projects
   Polynomial regression analysis
   Training / testing split 
 
-3.	<a href: Women labour participation </a>
-•	Data Source: Kaggle
-•	Work performed: 
-  Set-up and data connectivity to on-line IBM DB2 database
+ <a href="women.html"> Women in the Labour Force Analytics </a> 
+
+</body>
+</html>
