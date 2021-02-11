@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<title>Data Analytics Portfolio</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  
+  
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="index.html" class="w3-bar-item w3-button">Home</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="projects.html" class="w3-bar-item w3-button">Projects</a>
+      <a href="about.html" class="w3-bar-item w3-button">About</a>
+       </div>
+
+<!-- Page content -->
+<head>
+<style>
+#projects {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#projects td, #projects th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#projects tr:nth-child(even){background-color: #f2f2f2;}
+
+#projects tr:hover {background-color: #ddd;}
+
+#projects th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<table id="projects">
+  <tr>
+    <th>Project Description</th>
+    <th>Data Source</th>
+    <th>Methodology</th>
+    <th> Code </th>
+  </tr>
+  <tr>
+    <td><a href="women.html"> Women's Labour Participation</a> </td>
+    <td>UN and World Bank data</td>
+    <td>Automated dBase feed</td>
+    </tr>
+  <tr>
+    <td><a href="covid.html"> Covid-19 Data Analytics </a></td>
+    <td>REST API</td>
+    <td>Data obtained directly from Covid-19 tracker/td>
+     <td>Notebook</td>
+  </tr>
+  <tr>
+    <td><a href="housing.html"> Housing Sales in Seattle </a> </td>
+    <td>Kaggle dataset</td>
+    <td>CSV input</td>
+    <td>CSV Notebook </td>
+  </tr>
+   <tr>
+     <td><a href="cars.html">Used Car Sales </a> </td>
+    <td>Kaggle dataset</td>
+    <td>CSV input</td>
+     </tr>
+  
+  </table>
+
+</body>
+</html>
